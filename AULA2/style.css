@@ -1,0 +1,9 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+#cabecalho{
+    background-color: #102fb8;
+    padding: 20px;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
